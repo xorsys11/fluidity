@@ -196,7 +196,7 @@ export type Theme = {
 export const themes: Theme[] = [
 	{
 		name: "DeathAndMilk",
-		image: pic_1,
+		image: "https://i.giphy.com/media/9jwuxt5bXKadi/source.gif",
 		colors: {
 			"--bg-color": "#2E2E2E",
 			"--default-color": "#E6E6E6",
