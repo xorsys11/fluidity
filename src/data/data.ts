@@ -64,6 +64,10 @@ export const links: linkGroup[] = [
       {
         "label": "streams",
         "value": "https://web.microsoftstream.com/"
+      },
+      {
+        "label": "leetcode",
+        "value": "https://leetcode.com/"
       }
     ]
   },
